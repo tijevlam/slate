@@ -45,7 +45,7 @@ let kittens = api.kittens.get();
 ```json
 [
   {
-    "id": 1,
+    "quote": 1,
     "name": "Fluffums",
     "breed": "calico",
     "fluffiness": 6,
